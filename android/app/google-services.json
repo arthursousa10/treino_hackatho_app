@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841991589826",
+    "project_id": "hopeassistence",
+    "storage_bucket": "hopeassistence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841991589826:android:b498320925d04cc498905b",
+        "android_client_info": {
+          "package_name": "com.dolphinnight.hopeassistence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL5oQ5rmxz0QZDm7krPixu4jrxpLX74T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
